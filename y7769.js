@@ -8,7 +8,7 @@ background-image: url(https://up6.cc/2024/10/172930027035561.png; background-siz
 
 
 $(`<style>
-.nosel.d-flex.room divro borderg hand nosel fl rhtt6d50nhr .fitimg.u-pic.borderg {
+.nosel fl rhtt6d50nhr bord .fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
@@ -16,7 +16,7 @@ $(`<style>
 }
 
 
-.nosel.d-flex.room divro borderg hand nosel fl rhtt6d50nhr .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+.nosel fl rhtt6d50nhr bord .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
   -webkit-text-fill-color: #e6fefa;
   border-radius: 15px 15px 15px 15px !important;
@@ -28,9 +28,9 @@ $(`<style>
   margin-left: 2px!important;
 }
 
-.nosel.d-flex.room divro borderg hand nosel fl rhtt6d50nhr .bord {border-inline: 0px solid #4c121e !important;}
+.nosel fl rhtt6d50nhr bord .bord {border-inline: 0px solid #4c121e !important;}
 
-.nosel.d-flex.room.rhtt6d50nhr .dots.mini.u-msg {
+.nosel fl rhtt6d50nhr bord .dots.mini.u-msg {
     text-align: center;
     margin-top: 53px !important;
 	margin-left: 11px;
@@ -43,14 +43,14 @@ $(`<style>
 	opacity:0;
 }
 
-.nosel.d-flex.room divro borderg hand nosel fl rhtt6d50nhr {
+.nosel fl rhtt6d50nhr bord {
     background-image: url(https://up6.cc/2025/04/174584511027481.gif);
     background-size: cover;
     border-radius: 15px 0 15px;
     display: inline-block;
 }
 
-.nosel.d-flex.room divro borderg hand nosel fl rhtt6d50nhr .fitimg.u-pic.borderg {
+.nosel fl rhtt6d50nhr bord .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #cc8321;
   letter-spacing: 1px;
@@ -64,7 +64,7 @@ $(`<style>
   display: none;
 }
 
-.nosel.d-flex.room divro borderg hand nosel fl rhtt6d50nhr .u-topic.dots {
+.nnosel fl rhtt6d50nhr bord .u-topic.dots {
   text-transform: uppercase;
   -webkit-text-fill-color: #dda25568;
   animation: textclip 2s linear infinite;
